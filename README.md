@@ -5,10 +5,9 @@ V40 Geckos Team 19 (Backend app server)
 
 <pre> 
 v40-geckos-team-19be
-|
 |-- index.js
 |-- express
-|-- mongoose
+|-- mongoose or db.js
 |-- package.json
 `-- package-lock.json
 </pre> 
